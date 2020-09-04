@@ -15,4 +15,15 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Node.js](https://nodejs.org/en/)
 - [Git](http://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html3
+
+## Slides
+
+- PWA - Breve Introdução
+- Hands-on 1
+- Hands-on 2
+- Hands-on 3
+
+## References
+
+- [What WEB can do today?](https://whatwebcando.today/)
