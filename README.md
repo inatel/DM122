@@ -15,7 +15,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Node.js](https://nodejs.org/en/)
 - [Git](http://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html3
+- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html3)
 
 ## Slides
 
