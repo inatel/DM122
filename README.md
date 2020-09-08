@@ -23,6 +23,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - Hands-on 1
 - Hands-on 2
 - Hands-on 3
+- Final Homework
 
 ## References
 
