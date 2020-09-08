@@ -25,6 +25,10 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - Hands-on 3
 - Final Homework
 
+## Tools
+
+- [PWA Builder](https://www.pwabuilder.com/)
+
 ## References
 
 - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
