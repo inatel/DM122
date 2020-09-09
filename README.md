@@ -1,4 +1,4 @@
-# DM122 - Desenvolvimento híbrido de aplicativos móveis / PWA
+# DM122 - Desenvolvimento híbrido de aplicativos móveis com PWA
 
 Com a consolidação da web como plataforma surgiu uma nova abordagem para o desenvolvimento de aplicativos móvies: PWA - Progressive Web Apps.
 
@@ -41,6 +41,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 ## References
 
 - [Progressive Web Apps](https://web.dev/progressive-web-apps/)
+- [PWA Book](https://divante.com/pwabook/chapter/01-Introduction-to-PWA-technology.html)
 - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
 - [What WEB can do today?](https://whatwebcando.today/)
 - [How to Build Progressive Web Apps](https://www.outsystems.com/blog/posts/how-to-build-progressive-web-apps/)
