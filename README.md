@@ -33,6 +33,10 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 - [PWA Apps](https://appsco.pe/)
 
+## Success Stories
+
+- [PWA Stats](https://www.pwastats.com/)
+
 ## References
 
 - [Progressive Web Apps](https://web.dev/progressive-web-apps/)
