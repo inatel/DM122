@@ -36,6 +36,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 ## Success Stories
 
 - [PWA Stats](https://www.pwastats.com/)
+- [PWA Case Studies](https://widely.io/pwa-case-studies)
 
 ## References
 
