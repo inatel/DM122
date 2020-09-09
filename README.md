@@ -29,6 +29,10 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 - [PWA Builder](https://www.pwabuilder.com/)
 
+## Live Demos
+
+- [PWA Apps](https://appsco.pe/)
+
 ## References
 
 - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
