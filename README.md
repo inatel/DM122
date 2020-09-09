@@ -35,6 +35,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 ## References
 
+- [Progressive Web Apps](https://web.dev/progressive-web-apps/)
 - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
 - [What WEB can do today?](https://whatwebcando.today/)
 - [How to Build Progressive Web Apps](https://www.outsystems.com/blog/posts/how-to-build-progressive-web-apps/)
