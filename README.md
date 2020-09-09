@@ -39,3 +39,4 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
 - [What WEB can do today?](https://whatwebcando.today/)
 - [How to Build Progressive Web Apps](https://www.outsystems.com/blog/posts/how-to-build-progressive-web-apps/)
+- [Storage for the Web](https://www.youtube.com/watch?v=NNuTV-gjlZQ)
