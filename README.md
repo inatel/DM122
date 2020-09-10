@@ -28,6 +28,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 ## Tools
 
 - [PWA Builder](https://www.pwabuilder.com/)
+- [PWA Feature Detector](https://tomayac.github.io/pwa-feature-detector/)
 
 ## Live Demos
 
