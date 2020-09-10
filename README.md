@@ -50,3 +50,4 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 - [Service Worker Cookbook](https://serviceworke.rs)
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+- [Web Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
