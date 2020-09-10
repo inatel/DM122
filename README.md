@@ -33,6 +33,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 ## Live Demos
 
 - [PWA Apps](https://appsco.pe/)
+- [PWA Directory](https://pwa-directory.appspot.com/)
 
 ## Success Stories
 
