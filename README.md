@@ -46,4 +46,6 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [What WEB can do today?](https://whatwebcando.today/)
 - [How to Build Progressive Web Apps](https://www.outsystems.com/blog/posts/how-to-build-progressive-web-apps/)
 - [Storage for the Web](https://www.youtube.com/watch?v=NNuTV-gjlZQ)
+- [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 - [Service Worker Cookbook](https://serviceworke.rs)
+
