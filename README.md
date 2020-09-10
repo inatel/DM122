@@ -42,7 +42,8 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 ## References
 
-- [Progressive Web Apps](https://web.dev/progressive-web-apps/)
+- [Progressive Web Apps by Google](https://web.dev/progressive-web-apps/)
+- [Progressive Web Apps by Microsoft](https://developer.microsoft.com/en-us/windows/pwa/)
 - [PWA Book](https://divante.com/pwabook/chapter/01-Introduction-to-PWA-technology.html)
 - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
 - [What WEB can do today?](https://whatwebcando.today/)
