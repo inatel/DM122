@@ -48,8 +48,13 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
 - [What WEB can do today?](https://whatwebcando.today/)
 - [How to Build Progressive Web Apps](https://www.outsystems.com/blog/posts/how-to-build-progressive-web-apps/)
-- [Storage for the Web](https://www.youtube.com/watch?v=NNuTV-gjlZQ)
 - [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 - [Service Worker Cookbook](https://serviceworke.rs)
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 - [Web Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+- [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+
+## Videos
+
+- [What is a progressive web app in 60 seconds!](https://www.youtube.com/watch?v=Z8MjdQGyjfA)
+- [Storage for the Web](https://www.youtube.com/watch?v=NNuTV-gjlZQ)
