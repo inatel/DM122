@@ -58,3 +58,5 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 - [What is a progressive web app in 60 seconds!](https://www.youtube.com/watch?v=Z8MjdQGyjfA)
 - [Storage for the Web](https://www.youtube.com/watch?v=NNuTV-gjlZQ)
+- [What are Progressive Web Apps (PWA)? [Portuguese]](https://www.youtube.com/watch?v=UeMkXvmk68Q)
+
