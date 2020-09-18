@@ -53,6 +53,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 - [Web Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 - [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+- [A BIG list of Progressive Web App tips & tricks](https://deanhume.com/a-big-list-of-progressive-web-app-tips/)
 
 ## Videos
 
