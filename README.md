@@ -19,7 +19,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 ## Slides
 
-- PWA - Breve Introdução
+- [PWA - Breve Introdução](https://docs.google.com/presentation/d/1ix-n6kexaup2RKStEvscykLR3jS7fCcHTfZ3eT4Rq18/edit#slide=id.p)
 - Hands-on 1
 - Hands-on 2
 - Hands-on 3
@@ -54,6 +54,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Web Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 - [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [A BIG list of Progressive Web App tips & tricks](https://deanhume.com/a-big-list-of-progressive-web-app-tips/)
+- [IndexedDB](https://javascript.info/indexeddb)
 
 ## Videos
 
