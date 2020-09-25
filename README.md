@@ -55,6 +55,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [A BIG list of Progressive Web App tips & tricks](https://deanhume.com/a-big-list-of-progressive-web-app-tips/)
 - [IndexedDB](https://javascript.info/indexeddb)
+- [Storage for the Web](https://web.dev/storage-for-the-web/)
 
 ## Videos
 
